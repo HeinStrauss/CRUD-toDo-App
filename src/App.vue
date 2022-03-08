@@ -20,7 +20,7 @@
   <button @click="markAllDone">Mark All Done</button>
   <button @click="unmarkAll">Unmark All </button>
 <br>
-  <button @click="deleteAll">Delete All</button>
+  <button @click="deleteAll">Delete All The Above</button>
 </template>
 
 <script>
